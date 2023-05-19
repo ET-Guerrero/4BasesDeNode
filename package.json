@@ -1,0 +1,16 @@
+{
+  "name": "4basesdenode",
+  "version": "0.0.1",
+  "description": "",
+  "main": "appa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base7": "node appa --base=7"
+  },
+  "author": "Guerrero Isaac",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.7.2"
+  }
+}
